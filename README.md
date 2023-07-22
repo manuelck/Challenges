@@ -1,15 +1,19 @@
 
-# Challenges 
-This repository is dedicated to upload all my coding challenges that help me learn web development in a practical way.
+# Results Summary Component
+In this challenge, I had to recreate in Html and CSS a result component.
+This challenge helped me to get more comfortable with styling. Still, the final code requires to use a grid, and I did not use any at all. I used flex box. So I will put myself to learn grid in a proper way and update the code.
 
 
-## 💪 Challenge List
 
-- [Results Component - Html & CSS](results-summary-component) 
+## Screenshots
+
+![App Screenshot Web](final/web.jpeg)
+![App Screenshot Phone](final/phone.jpeg)
+
+
 ## 🖊️ Challenges authors.
-This is where I got the challenges from.
  - [Front End Mentor](https://www.frontendmentor.io/home)
- - [Youtube](https://youtube.com)
+
 
 
 
