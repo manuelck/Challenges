@@ -8,11 +8,11 @@ This challenge helped me to get more comfortable with styling. Still, the final 
 ## 📸Screenshots
 
 <p align="center">
-  <img width="460" height="300" src="final/web.jpeg">
+  <img src="final/web.jpeg">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="final/phone.jpeg">
+  <img src="final/phone.jpeg">
 </p>
 
 
