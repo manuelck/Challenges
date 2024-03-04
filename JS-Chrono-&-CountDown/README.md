@@ -8,7 +8,7 @@ This project marks my initial foray into JavaScript development, where I set out
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Final/Crono.png">
+  <img src="Final/Chrono.png">
 </p>
 
 <p align="center">
