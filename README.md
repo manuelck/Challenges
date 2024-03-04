@@ -5,7 +5,9 @@ This repository is dedicated to upload all my coding challenges that help me lea
 
 ## 💪 Challenge List
 
-- [Results Component - Html & CSS](results-summary-component) 
+- [Results Component - Html & CSS](results-summary-component)
+- [Java Script - Chronometer & CountDown](results-summary-component) 
+
 ## 🖊️ Challenges authors.
 This is where I got the challenges from.
  - [Front End Mentor](https://www.frontendmentor.io/home)
