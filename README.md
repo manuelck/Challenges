@@ -6,7 +6,7 @@ This repository is dedicated to upload all my coding challenges that help me lea
 ## 💪 Challenge List
 
 - [Results Component - Html & CSS](results-summary-component)
-- [Java Script - Chronometer & CountDown](JS -Chrono- &-CountDown) 
+- [Java Script - Chronometer & CountDown](JS-Chrono-&-CountDown) 
 
 ## 🖊️ Challenges authors.
 This is where I got the challenges from.
